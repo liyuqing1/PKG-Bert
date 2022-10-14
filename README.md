@@ -20,6 +20,8 @@ requests
 
 #### Datasets
 
+First of all, please download files from [onedrive](https://bupteducn-my.sharepoint.com/:f:/g/personal/liyuqing_bupt_edu_cn/EoeeIc4jc_1HqGL2JSOf7yAB6hgr2Q1qoKNoHuu6EJjCag?e=449dii) including the knowledge graph, parameters of Google Bert, and the pretrained model parameters of PKG-Bert.
+
 The multi-modal knowledge graph for classical Chinese poetry (PKG) can be found in [./brain/kg_info/](./brain/kg_info/). We store the image entity in the form of URL, please contact [Beautiful Free Images & Pictures | Unsplash](https://unsplash.com/) to download these images.
 
 The labeled evaluation dataset for poetry-image retrieval task can be found in [./evaluation/](./evaluation/).
